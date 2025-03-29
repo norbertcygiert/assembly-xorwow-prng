@@ -20,9 +20,7 @@ https://en.wikipedia.org/wiki/Xorshift
 3. Link the Object Files <br>
 ` link /subsystem:console main.obj xorwow.obj `
 4. Run the Program <br>
-` .\main.exe `
-
-<br>
+` .\main.exe ` <br>
 
 ## Disclaimer! 
 ### This RNG isn't by any means safe and you should never use it for cryptography or anything related. It is merely a small project done for fun.
