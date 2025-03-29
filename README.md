@@ -13,6 +13,8 @@ https://en.wikipedia.org/wiki/Xorshift
 <br>
 
 ## Building & Running
+### Requirement: MSVC Linker and Compiler (as this code was written and intended for Windows)
+
 1. Assemble the ASM Code <br>
 `ml /c /coff xorwow.asm`
 2. Compile the C Code <br>
